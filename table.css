@@ -1,0 +1,16 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+table, th, td{
+    border:  solid black;
+    border-collapse: collapse;
+    /* border-style: outset; */
+}
+table{
+    width: 100%;
+    caption-side: bottom;
+}
+th, td{
+    background-color: wheat;
+}
